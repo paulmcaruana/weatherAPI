@@ -1,0 +1,23 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulmcaruana/weatherAPI.git"
+  },
+  "author": "Paul Caruana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulmcaruana/weatherAPI/issues"
+  },
+  "homepage": "https://github.com/paulmcaruana/weatherAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
